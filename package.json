@@ -1,0 +1,24 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Practicar usar el Connect y modificar variables dinamicamente a un archivo html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAB737/test1.git"
+  },
+  "keywords": [
+    "connect",
+    "dinamic",
+    "variable"
+  ],
+  "author": "jorgeacostabello@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAB737/test1/issues"
+  },
+  "homepage": "https://github.com/JAB737/test1#readme"
+}
