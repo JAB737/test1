@@ -4,7 +4,7 @@
   "description": "Practicar usar el Connect y modificar variables dinamicamente a un archivo html",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "dependencies": {
     "connect": "3.7.0",
